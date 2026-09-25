@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoseinsaadatian621-tech.github.io/Derakhshandeh-mdf/sitemap.xml
